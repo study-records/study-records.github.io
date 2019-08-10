@@ -1,9 +1,7 @@
 ---
-layout: home
 sidebar:
   nav: "docs"
-title: "Chap1. 면접과정"
-categories: docs cracking-the-coding-interview
+categories: docs coding-interview
 ---
 
 Chap1. 면접과정

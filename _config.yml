@@ -108,7 +108,8 @@ analytics:
 author:
   name             : "Super Study"
   avatar           :  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "\"아무것도 남기지 않으면, 아무것도 남지 않는다\"\n모토 아래 기록할 가치가 있는 모든 것을 남기는 블로그입니다!"
+  bio              : "\"아무것도 남기지 않으면,
+            아무것도 남지 않는다.\""
   location         : "Republic of Korea"
   #  email            : ""
   #links:
