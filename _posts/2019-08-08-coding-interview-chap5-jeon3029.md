@@ -14,13 +14,13 @@ categories: docs coding-interview
 
 |  <center>흔히 나오는 문제</center> |  <center>프로젝트1</center> |  <center>프로젝트2...</center> |
 |:--------|:--------:|--------:|
-|<center>가장 도적적이었던것?</center> 
-|<center>무엇을 배웠나?</center> 
-|<center>가장 재미있었던것?</center> 
+|<center>가장 도적적이었던것?</center>
+|<center>무엇을 배웠나?</center>
+|<center>가장 재미있었던것?</center>
 |<center>최악의 버그는?</center>
 |<center>가장 즐거웠던 것?</center>
-|<center>팀원과의 갈등?</center> 
-- 이런 방식으로 표를 채우고 연구하라. 
+|<center>팀원과의 갈등?</center>
+- 이런 방식으로 표를 채우고 연구하라.
 - 생각하고 기억하게 좋게 만들어서 봐라
 
 ### 단점
