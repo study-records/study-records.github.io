@@ -39,30 +39,30 @@ docs:
   - title: Algorithm
     children:
       - title: "코딩 인터뷰 완전분석"
-        url: /docs/coding-interview/
+        url: /coding-interview/
       - title: "백준 알고리즘"
-        url: /docs/acmicpc/
+        url: /baekjoon/
   - title: Languages
     children:
       - title: "모던 자바스크립트 입문"
-        url: /docs/modern-javascript/
+        url: /modern-javascript/
       - title: "JSP"
-        url: /docs/jsp/
+        url: /jsp/
       - title: "Spring"
   - title: Ohters
     children: 
       - title: "Git"
-        url: /docs/git/
+        url: /git/
       - title: "Kubernetes"
-        url: /docs/kubernetes/
+        url: /kubernetes/
   - title: Daily Notes    
     children:
       - title: "인생"
-        url: /docs/lifes/
+        url: /lifes/
       - title: "기획"
-        url: /docs/plan/
+        url: /plan/
       - title: "회의록"
-        url: /docs/meeting-log/
+        url: /meeting-log/
 
 # sidebar navigation list sample
 sidebar-sample:

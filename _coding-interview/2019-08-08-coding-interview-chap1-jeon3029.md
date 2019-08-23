@@ -1,13 +1,14 @@
 ---
 sidebar:
   nav: "docs"
-categories: docs coding-interview
+categories: coding-interview
+#permalink: /:categories/:title
+title: Chap1. 면접과정
+author: 전태준
 ---
 
-Chap1. 면접과정
-=============
 --------------
-# 1. 개요
+# 1. 개요 test
 -------------
 대부분의 회사의 면접 과정 
 1. 사전면접(전화, 숙제코딩 등등..)

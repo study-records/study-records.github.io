@@ -82,6 +82,13 @@ bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
+# Collections
+collections:
+  coding-interview:
+    output: true
+  modern-javascript:
+    output: true
+
 # Social Sharing
 #twitter:
 #  username               :
@@ -308,3 +315,16 @@ defaults:
     values:
       sidebar:
         nav: "docs"      
+  # coding-interview
+  - scope:
+      path: ""
+      type: "coding-interview"
+    values:
+      layout: single
+  # modern-javascript
+  - scope:
+      path: ""
+      type: "modern-javascript"
+    values:
+      layout: single
+
