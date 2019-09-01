@@ -1,11 +1,10 @@
 ---
 sidebar:
   nav: "docs"
-categories: docs coding-interview
+title: Chap5. 행동문제
+author: 전태준
 ---
 
-행동문제
-===============
 
 -------------
 # 1. 행동문제 대비

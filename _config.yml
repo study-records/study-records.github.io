@@ -275,7 +275,7 @@ tag_archive:
 #   layouts:
 #     category: archive-taxonomy
 #     tag: archive-taxonomy
-#   permalinks:
+  permalinks: /:categories/:title
 #     category: /categories/:name/
 #     tag: /tags/:name/
 

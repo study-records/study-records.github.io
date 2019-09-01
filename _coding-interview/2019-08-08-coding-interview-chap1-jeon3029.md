@@ -1,8 +1,6 @@
 ---
 sidebar:
   nav: "docs"
-categories: coding-interview
-#permalink: /:categories/:title
 title: Chap1. 면접과정
 author: 전태준
 ---

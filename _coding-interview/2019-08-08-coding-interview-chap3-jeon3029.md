@@ -1,12 +1,9 @@
 ---
 sidebar:
   nav: "docs"
-categories: docs coding-interview
+title: Chap3. 특별한 상황
+author: 전태준
 ---
-
-특별한 상황
-==============
-
 
 ----------------
 # 1. 경력자 면접

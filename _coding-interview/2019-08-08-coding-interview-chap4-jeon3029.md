@@ -1,11 +1,9 @@
 ---
 sidebar:
   nav: "docs"
-categories: docs coding-interview
+title: Chap4. 면접전에
+author: 전태준
 ---
-
-면접전에
-============
 
 -----------
 # 1. 적절한 경험 쌓기

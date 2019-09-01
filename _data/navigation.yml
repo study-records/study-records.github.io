@@ -49,6 +49,7 @@ docs:
       - title: "JSP"
         url: /jsp/
       - title: "Spring"
+        url: /spring/
   - title: Ohters
     children: 
       - title: "Git"
@@ -57,8 +58,8 @@ docs:
         url: /kubernetes/
   - title: Daily Notes    
     children:
-      - title: "인생"
-        url: /lifes/
+      - title: "일상 생활"
+        url: /lives/
       - title: "기획"
         url: /plan/
       - title: "회의록"

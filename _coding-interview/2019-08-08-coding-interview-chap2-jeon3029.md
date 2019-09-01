@@ -1,11 +1,11 @@
 ---
 sidebar:
   nav: "docs"
-categories: docs coding-interview
+title: Chap2. 장막너머
+author: 전태준
 ---
 
-Chap2.장막너머
-=========
+
 ------------
 # 1. 마이크로소프트
 -----------
